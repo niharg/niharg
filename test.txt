@@ -3,3 +3,6 @@ This is a test file.
 EDIT 1: Making changes via my_checkout_branch_1.
 
 EDIT 2: Making some more changes to check behvaior while pulling latest changes from main branch.
+
+EDIT 2: Changing file from main branch as a test.
+
